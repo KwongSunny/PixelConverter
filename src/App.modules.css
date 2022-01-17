@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.canvasContainer{
+  width: 70%;
+  margin: auto;
+}
+
+.sourceCanvas{
+  position:absolute;
+  visibility: hidden;
+  top:0;
+  left:0;
+}
